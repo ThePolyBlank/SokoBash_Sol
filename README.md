@@ -1,0 +1,1 @@
+Ein Sokobanklon in C#. Erstellt im Rahmen der Projektarbeit für die Robert-Bosch-Schule Ulm.
